@@ -76,5 +76,5 @@ Contributions and feedback are welcome! Feel free to open issues or submit pull 
 
 ### Stay Connected
 
-Follow me on GitHub for updates and new repositories: [GitHub Profile](https://github.com/your-username)
+Follow me on GitHub for updates and new repositories
 
