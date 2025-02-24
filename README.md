@@ -63,7 +63,7 @@ This project is my contribution to the tech community, reflecting my journey as 
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/devops-devsecops-resources.git
+git clone https://github.com/midhusha/devops-devsecops-resources.git
 ```
 
 ---
